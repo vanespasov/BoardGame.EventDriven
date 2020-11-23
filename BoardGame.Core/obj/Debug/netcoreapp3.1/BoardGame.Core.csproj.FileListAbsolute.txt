@@ -1,0 +1,8 @@
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\bin\Debug\netcoreapp3.1\BoardGame.Core.deps.json
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\bin\Debug\netcoreapp3.1\BoardGame.Core.dll
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\bin\Debug\netcoreapp3.1\BoardGame.Core.pdb
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\obj\Debug\netcoreapp3.1\BoardGame.Core.AssemblyInfoInputs.cache
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\obj\Debug\netcoreapp3.1\BoardGame.Core.AssemblyInfo.cs
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\obj\Debug\netcoreapp3.1\BoardGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\obj\Debug\netcoreapp3.1\BoardGame.Core.dll
+C:\Users\vspasov\source\repos\BoardGame.EventDriven\BardGame.Core\obj\Debug\netcoreapp3.1\BoardGame.Core.pdb
