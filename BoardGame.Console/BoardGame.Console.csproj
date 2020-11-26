@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BardGame.Core\BoardGame.Core.csproj" />
+    <ProjectReference Include="..\BoardGame.Core\BoardGame.Core.csproj" />
   </ItemGroup>
 
 </Project>
