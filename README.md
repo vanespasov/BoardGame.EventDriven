@@ -6,6 +6,7 @@ Let's have 4 holes named H1, H2, H3 and H5. Each hole can contain max of 5 balls
 
 Let's have the folowing balls numbered b1, b2, b3...b20. All the balls are placed on the board and they randomly start to enter into the holes:
 ex:
+
 1)
 |Hole|Ball|
 |---|--- |
